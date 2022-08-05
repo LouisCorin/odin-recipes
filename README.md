@@ -1,2 +1,2 @@
-# odin-recipes
-A simpoly website that shows my 3 favorite dishes.
+# Odin-recipes
+A simple website that shows my 3 favorite dishes.
